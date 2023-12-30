@@ -22,6 +22,6 @@ This was built in half an hour in a rage after my Windows froze and I lost an ho
 Take a look at PieAutosave class, in StartupModule we register a listener to OnPreWorldInitialization. Within this listener we call the same method that's used by UE internally to save packages.
 
 # Does it work with version control? 
-Beats me, probably.
+Beats me, maybe.
 
 
